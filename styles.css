@@ -1,0 +1,40 @@
+html{
+    background-color: black;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    width: 600px;
+    background-color: orange;
+    margin: 0 auto;
+    border: 5px solid white;
+    padding: 0px 20px 20px 20px;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    text-shadow: 3px 3px 1px black;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+
+h1:hover{
+    color: crimson;
+    cursor: pointer;
+}
+
